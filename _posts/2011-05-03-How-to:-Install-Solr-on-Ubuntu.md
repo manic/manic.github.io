@@ -1,7 +1,7 @@
 ---
 title: 如何在 Ubuntu 下安裝 solr search engine
 layout: post
-time: "14:50"
+date: "2011-05-03 14:50:00"
 ---
 ### 版本資訊
 
