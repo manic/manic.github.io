@@ -1,7 +1,7 @@
 ---
 title: "jQuery UJS 範例: Simple Slideshow"
 layout: post
-date: "2011-05-27-13:16:44"
+date: "2011-05-27 13:16:44"
 ---
 
 原本程式碼
