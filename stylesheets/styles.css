@@ -259,7 +259,7 @@ container: 12*60px (unit) + 13*16px (gutter) = 928px = 58em = 100%
 
 /* content */
 .content {
-  width: 65%;
+  width: 72%;
   float: left;
   margin-right: 2.6%;
 }
@@ -270,7 +270,7 @@ container: 12*60px (unit) + 13*16px (gutter) = 928px = 58em = 100%
 
 /* sidebar */
 .sidebar {
-  width: 32%;
+  width: 25%;
   float: right;
   margin-right: 0;
 }
