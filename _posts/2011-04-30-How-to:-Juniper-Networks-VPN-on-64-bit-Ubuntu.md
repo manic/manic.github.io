@@ -21,7 +21,10 @@ layout: post
 
 5.  執行 4. 後會下載 ncLinuxApp.jar, 請允許他下載, 會放到 ~/.juniper\_networks 底下，此時會有要求輸入密碼的要求。
 
-6.  執行 wget http://mad-scientist.net/junipernc; chmod 755 junipernc; sudo cp junipernc ~/bin/;
+6.  執行
+        wget http://mad-scientist.net/junipernc
+        chmod 755 junipernc
+        sudo cp junipernc ~/bin/
 
 7.  執行 junipernc 並輸入需要的資訊
 
