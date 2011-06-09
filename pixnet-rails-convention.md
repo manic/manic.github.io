@@ -19,9 +19,9 @@ layout: post
 
 ### Initial Rails App
 
-- Clone <https://github.com/manic/rails3-app-template> and create rails project
+Clone <https://github.com/manic/rails3-app-template> and create rails project
 
-    git clone git://github.com:manic/rails3-app-template.git
+    git clone git://github.com/manic/rails3-app-template.git
     rails new your_project_name -TJ -d mysql -m rails3-app-template/rails3.rb
 
 ### Annotate
