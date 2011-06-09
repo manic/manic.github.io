@@ -823,10 +823,10 @@ pre {
     height: 40px;
     background: transparent url(/images/bubble/up.png) no-repeat 50% 50%;
   }
-
-
-
 }
+
+
+
 
 @media screen and (max-device-width: 680px), screen and (max-width: 680px) {
   .stage {
@@ -854,3 +854,4 @@ pre {
     height: 400px;
   }
 
+}
