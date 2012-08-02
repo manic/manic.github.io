@@ -1,6 +1,7 @@
 ---
-title: 活動網站 tca2012 製作心得－FB Async 與後續事件觸發
+title: "活動網站 tca2012 製作心得－FB Async 與後續事件觸發"
 layout: post
+date: "2012-08-02 12:00"
 ---
 
 參考 [How to detect when facebook's FB.init is complete](http://stackoverflow.com/questions/3548493/how-to-detect-when-facebooks-fb-init-is-complete)
